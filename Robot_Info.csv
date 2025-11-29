@@ -1,0 +1,16 @@
+Robot_Prototype,Archer,Bowler,Corner,Deviant,,,,,,,,,,,,,,,
+Carrying Capacity,45,50,60,40,,,,,,,,,,,,,,,
+Battery Size,18,18,12,24,,,,,,,,,,,,,,,
+Average Speed,6,4,4,10,,,,,,,,,,,,,,,
+Cost Per Unit,5210,6250,4500,7100,,,,,,,,,,,,,,,
+Reliability,22,24,24,32,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Robot_Prototype,Carrying Capacity,Battery Size,Average Speed,Cost Per Unit,Reliability
+,,,,,,,,,,,,,,Archer,45,18,6,5210,22
+,,,,,,,,,,,,,,Bowler,50,18,4,6250,24
+,,,,,,,,,,,,,,Corner,60,12,4,4500,24
+,,,,,,,,,,,,,,Deviant,40,24,10,7100,32
+,,,,,,,,,,,,,,,"(0.05, 0.2, 0.1, 0.25, 0.4)",,,,
